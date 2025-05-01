@@ -42,7 +42,7 @@ A responsive portfolio to showcase my projects, resume, and technical skills.
 
 ## 💼 Experience
 
-I am currently interning at [Vibexio.ai](#) where I am contributing to the development of frontend applications using React.js.
+I am currently interning at [Vibexio.ai](#) where I am contributing to the development of FullStack applications using React.js.
 
 ## 🚀 Let's Connect
 
