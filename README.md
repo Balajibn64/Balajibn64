@@ -88,15 +88,6 @@
 
 ---
 
-## 📊 GitHub Stats (Because Why Not 😄)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balajibn64&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balajibn64&theme=tokyonight" height="165">
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
