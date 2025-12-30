@@ -100,7 +100,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/BalajiNarayanan">
+  <a href="https://www.linkedin.com/in/balaji64/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/Balajibn64">
