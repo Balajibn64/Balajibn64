@@ -1,134 +1,118 @@
-# Hi there! 👋 I'm Balaji Narayanan
+<h1 align="center">Hi 👋, I'm Balaji Narayanan</h1>
+<h3 align="center">Full Stack Java Developer | Backend-Focused | System Thinker</h3>
 
-I'm a **Full Stack Java Developer** with hands-on experience building **scalable, production-ready backend systems** using **Java 8/17/21 and Spring Boot**, along with modern React-based frontends.
-
-I enjoy designing clean REST APIs, implementing secure authentication, and working on systems that solve real-world problems with efficient, maintainable code. I’m comfortable owning backend features end-to-end and collaborating in agile teams.
-
----
-
-## 🧠 Summary
-
-- Strong foundation in **Core Java, OOP, DSA, and system design fundamentals**
-- Experienced in **Spring Boot, Spring Security, JWT authentication**, and RESTful API development
-- Hands-on experience with **SQL & NoSQL databases**
-- Exposure to **microservices architecture, CI/CD pipelines, and cloud deployment**
-- Passionate about backend engineering, performance optimization, and scalable architecture
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Always+Learning+%26+Improving&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-### Programming Languages
-- Java (8, 17, 21)
-- JavaScript (ES6+)
-- SQL
+💻 **Full Stack Java Developer** with strong experience in building  
+**scalable, secure, and production-ready backend systems** using **Java (8/17/21)** and **Spring Boot**.
 
-### Backend
-- Spring Boot
-- Spring Security
-- Hibernate, JPA, JDBC
-- RESTful APIs
-- JWT Authentication
-- Microservices Architecture
+🧠 I enjoy:
+- Designing clean REST APIs
+- Implementing JWT-based authentication
+- Working with SQL databases
+- Solving real-world backend problems
+- Writing maintainable, performance-focused code
 
-### Frontend
-- React.js
-- HTML5, CSS3
-- Tailwind CSS
-- Axios
-
-### Databases
-- MySQL
-- MongoDB
-- RDBMS concepts
-
-### DevOps & Tools
-- Docker
-- Git & GitHub
-- GitHub Actions (CI/CD)
-- Render
-- Postman
-- AWS (Basic)
+🎯 Currently focused on **Backend / Full Stack roles**.
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-### Java Developer Intern — Tarento Technologies  
-**Aug 2025 – Present | Bengaluru, Karnataka**
-- Built scalable REST APIs using **Java 17 and Spring Boot**
-- Designed APIs for **vector similarity search and embeddings**
-- Focused on **low-latency, high-throughput backend systems**
-- Ensured API resilience, fault tolerance, and production readiness
+### 💡 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-### Full Stack Developer Intern — Vibexio.ai  
-**Mar 2025 – Jun 2025 | Hosur, Tamil Nadu**
-- Developed and deployed RESTful APIs using **Java 21 & Spring Boot**
-- Implemented **JWT-based authentication, validation, and exception handling**
-- Delivered production-ready APIs with high availability
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
+
+---
+
+## 🧑‍💻 Experience
+
+### 💼 Java Developer Intern — **Tarento Technologies**
+- Built **high-performance REST APIs** using Java 17 & Spring Boot
+- Designed APIs for **vector similarity search & embeddings**
+- Focused on **low-latency, fault-tolerant backend systems**
+
+### 💼 Full Stack Developer Intern — **Vibexio.ai**
+- Developed production-ready APIs using **Java 21 & Spring Boot**
+- Implemented **JWT authentication & role-based access**
 - Optimized backend performance for large data flows
-- Actively contributed to sprint planning, debugging, and code reviews
+- Actively contributed to agile sprints & code reviews
 
 ---
 
-## 📂 Key Projects
+## 📦 Featured Projects
 
 ### 🍔 Scalable Food Delivery System
-**Tech Stack:** Java 21, Spring Boot, MySQL, React.js, JWT, REST APIs, Google Maps API, Render  
+**Java 21 • Spring Boot • React • MySQL • JWT**
 
-- Designed and implemented a robust Spring Boot backend for:
-  - User authentication
-  - Order placement
-  - Real-time order tracking
-- Built **multiple role-based modules**: Customer, Admin, Delivery Partner
-- Implemented **secure JWT authentication and role-based access control**
-- Integrated **Google Maps API** for real-time delivery tracking
-- Optimized MySQL queries for dashboards and tracking features
+- Multi-role system: **Customer | Admin | Delivery Partner**
+- Secure authentication & role-based authorization
+- Real-time order tracking with Google Maps API
+- Clean backend architecture & optimized SQL queries
 
 ---
 
 ### 🏨 Online Hotel Booking System
-**Tech Stack:** Java 21, Spring Boot, MySQL, JPA, Spring Security, JWT, React.js, Tailwind CSS  
+**Spring Boot • Spring Security • React • Tailwind**
 
-- Developed a role-based booking system with **Admin, Manager, and Customer** modules
-- Built REST APIs for hotel, room, user, and booking management
-- Implemented **Spring Security + JWT** for secure access control
-- Designed a modern, responsive React frontend
-- Added validations, error handling, and role-specific views
-
----
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**  
-Arignar Anna College, Periyar University  
-CGPA: **8.05 / 10**
-
-Relevant coursework:  
-DSA, DBMS, Operating Systems, OOP, Computer Networks, Software Engineering, Web Technologies, System Design Fundamentals
+- Role-based access (Admin, Manager, Customer)
+- Secure booking & management APIs
+- Modern responsive frontend
+- Strong focus on backend security & data integrity
 
 ---
 
-## 📜 Certification
+## 📊 GitHub Stats (Because Why Not 😄)
 
-**Full Stack Java Developer** — ExcelR Solutions, Bangalore  
-- Java, Spring Boot, Hibernate, MongoDB, MySQL
-- React.js, Redux
-- REST APIs, JWT, Agile methodology
-
----
-
-## 🚀 Currently Interested In
-- Backend-heavy Full Stack roles
-- Java / Spring Boot development
-- Scalable system design
-- Performance optimization & clean architecture
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balajibn64&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balajibn64&theme=tokyonight" height="165">
+</p>
 
 ---
 
-## 🔗 Let’s Connect
-- GitHub: https://github.com/Balajibn64
-- LinkedIn: https://linkedin.com/in/BalajiNarayanan
-- LeetCode: https://leetcode.com/balajiNarayanan
+## 🔗 Connect With Me
 
-Feel free to explore my repositories — feedback and collaboration are always welcome!
+<p align="center">
+  <a href="https://linkedin.com/in/BalajiNarayanan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/Balajibn64">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://leetcode.com/balajiNarayanan">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode">
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Building scalable systems, one commit at a time ✨
+</p>
